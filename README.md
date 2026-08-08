@@ -63,6 +63,8 @@ Crear un plan intermedio: El segmento de Uso medio (45% de los usuarios) represe
 
 Segmentación por edad: Diseñar campañas específicas para Jóvenes, Adultos y Adultos Mayores.
 
+Monitoreo de outliers: Los usuarios con consumo extremo deben ser analizados individualmente como potenciales clientes de alto valor.
+
 ▶ Cómo abrir el notebook en Google Colab
 Haz clic en el siguiente botón:
 
@@ -101,8 +103,9 @@ Ejecuta las celdas en orden
 Nota: Para la Opción 2, necesitarás clonar el repositorio y los archivos CSV deben estar en la carpeta data/ dentro del proyecto clonado. El repositorio incluye los archivos CSV necesarios para el análisis.
 
 📦 Dependencias necesarias
+¿Qué es esto y para qué sirve?
 
-Instala estas librerías en tu entorno local (Jupyter Notebook) para que puedas ejecutar el análisis sin errores.
+Las dependencias son las librerías de Python que el notebook necesita para funcionar correctamente. Instala estas librerías en tu entorno local (Jupyter Notebook) para que puedas ejecutar el análisis sin errores.
 
 bash
 pip install pandas numpy matplotlib seaborn
@@ -116,11 +119,8 @@ Para preguntas o comentarios sobre este análisis:
 
 Estudiante: Sergio Pérez
 
-Correo electrónico: [spabiantun@gmail.com]
+Correo electrónico: spabiantun@gmail.com
 
 Curso: TripleTen Bootcamp - Data Analyst
 
 Instructor: Equipo de instrucción de TripleTen
-
-Monitoreo de outliers: Los usuarios con consumo extremo deben ser analizados individualmente como potenciales clientes de alto valor.
-
